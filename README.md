@@ -7,17 +7,15 @@ git clone https://github.com/Flash21-Mobile/MMate_System_Command.git "$HOME/.mma
 
 
 ### MMate System init
-$ mmate init
+    $ mmate init
 
-  core_system:
-  
-    path: mmate_system/core
-  design_system:
-  
-    path: mmate_system/design
-  function_system:
-  
-    path: mmate_system/function
+#### then Add this Code in pubspec.yaml
+    core_system:
+      path: mmate_system/core
+    design_system:
+      path: mmate_system/design
+    function_system:
+      path: mmate_system/function
 
 
 ### MMate Project Global Pub get
