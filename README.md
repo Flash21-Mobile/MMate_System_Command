@@ -1,4 +1,4 @@
-# This is the CMD for managing mmate_system
+# This is the CMD for managing Mmate_System
 
 ### Please run the following code in the terminal
 #### (GitHub should be set up globally)
