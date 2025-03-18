@@ -11,16 +11,20 @@ $ mmate init
 
   core_system:
     path: mmate_system/core
+    
   design_system:
-    path: mmate_system/design
+    path: mmate_system/design\n
   function_system:
     path: mmate_system/function
+
 
 ### MMate Project Global Pub get
 $ mmate pub get
 
+
 ### MMate System Upgrade
 $ mmate upgrade
+
 
 ### Post new version MMate System 
 $ mmate update
