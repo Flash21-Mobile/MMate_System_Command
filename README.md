@@ -10,11 +10,13 @@ git clone https://github.com/Flash21-Mobile/MMate_System_Command.git "$HOME/.mma
 $ mmate init
 
   core_system:
+  
     path: mmate_system/core
-    
   design_system:
-    path: mmate_system/design\n
+  
+    path: mmate_system/design
   function_system:
+  
     path: mmate_system/function
 
 
