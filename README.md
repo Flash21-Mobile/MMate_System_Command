@@ -7,9 +7,10 @@ git clone https://github.com/Flash21-Mobile/MMate_System_Command.git "$HOME/.mma
 
 
 ## How to Start
+#### Please enter the following command in the terminal
     $ mmate init
 
-#### then Add this Code in pubspec.yaml
+#### After that, enter the following code in pubspec.yaml
     core_system:
       path: mmate_system/core
     design_system:
@@ -18,13 +19,13 @@ git clone https://github.com/Flash21-Mobile/MMate_System_Command.git "$HOME/.mma
       path: mmate_system/function
 
 
-### MMate Project Global Pub get
-$ mmate pub get
+### Run pub get in the project globally
+    $ mmate pub get
 
 
-### MMate System Upgrade
-$ mmate upgrade
+### To upgrade to the latest version of MMate_System
+    $ mmate upgrade
 
 
-### Post new version MMate System 
-$ mmate update
+### To post a new version of MMate System
+    $ mmate update
