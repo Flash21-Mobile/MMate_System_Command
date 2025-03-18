@@ -19,13 +19,13 @@ git clone https://github.com/Flash21-Mobile/MMate_System_Command.git "$HOME/.mma
       path: mmate_system/function
 
 
-### Run pub get in the project globally
+## Run pub get in the project globally
     $ mmate pub get
 
 
-### To upgrade to the latest version of MMate_System
+## To upgrade to the latest version of MMate_System
     $ mmate upgrade
 
 
-### To post a new version of MMate System
+## To post a new version of MMate System
     $ mmate update
