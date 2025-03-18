@@ -6,7 +6,7 @@ mmate_system을 관리하는 CMD 입니다
 git clone https://github.com/Flash21-Mobile/MMate_System_Command.git "$HOME/.mmate" && echo "export PATH=\$PATH:$HOME/.mmate" >> ~/.zshrc && source ~/.zshrc
 
 
-### MMate System init
+## How to Start
     $ mmate init
 
 #### then Add this Code in pubspec.yaml
